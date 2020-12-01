@@ -1,3 +1,3 @@
-module "github.com/guy-middleton/twg"
+module "github.com/joncalhoun/twg"
 
 go 1.15
